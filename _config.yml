@@ -325,13 +325,4 @@ defaults:
       share: true
       related: true
       
-author:
-  name: "郡健太"
-  bio: "不妊化したコクヌストモドキ雄を用いた実験進化の研究を行っています"
-  location: "Japan"
-  avatar: ""
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Kori-tri"
 
