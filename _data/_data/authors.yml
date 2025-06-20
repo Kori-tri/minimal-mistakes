@@ -1,0 +1,9 @@
+default:
+  name        : "郡健太"
+  bio         : "不妊化したコクヌストモドキ雄を用いた実験進化の研究を行っています"
+  location    : "Japan"
+  avatar      : ""  # 画像があればパスを書く（例: /assets/images/avatar.jpg）
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Kori-tri"
