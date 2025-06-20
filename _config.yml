@@ -324,6 +324,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+# ↓↓↓ここからサイト全体用の author 情報↓↓↓
 author:
   name   : "郡健太"
   bio    : "不妊化したコクヌストモドキ雄を用いた実験進化の研究を行っています"
